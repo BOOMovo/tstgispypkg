@@ -2,7 +2,6 @@
 
 """Tests for `lonlat` package."""
 
-
 import unittest
 
 from lonlat import __version__
